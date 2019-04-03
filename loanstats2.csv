@@ -1,0 +1,139 @@
+Gender,Age,Married,Education,Self employed ,Propety area,Monthly salary,Loan status
+Male,20-30years,No,Graduate,No,Rural,20k-80,Yes
+Female,20-30years,No,Not graduate,No,Rural,Below 20,No
+Male,20-30years,No,Not graduate,No,Urban,20k-80,Yes
+Male,30-50 years,Yes,Graduate,No,Rural,20k-80,No
+Male,20-30years,No,Not graduate,No,Urban,20k-80,No
+Male,20-30years,No,Graduate,Yes,Urban,20k-80,No
+Female,20-30years,No,Graduate,No,Urban,20k-80,No
+Male,20-30years,Yes,Graduate,No,Urban,20k-80,No
+Male,20-30years,Yes,Graduate,No,Urban,20k-80,No
+Male,20-30years,No,Graduate,Yes,Urban,Above 80k,Yes
+Female,20-30years,No,Graduate,No,Rural,20k-80,No
+Male,20-30years,No,Not graduate,Yes,Urban,Below 20,Yes
+Male,20-30years,No,Not graduate,No,Rural,Below 20,No
+Male,20-30years,No,Graduate,Yes,Urban,Below 20,No
+Female,20-30years,No,Graduate,Yes,Urban,Below 20,No
+Female,20-30years,No,Graduate,No,Urban,Below 20,No
+Male,20-30years,No,Not graduate,No,Rural,Below 20,No
+Female,20-30years,Yes,Graduate,Yes,Urban,Below 20,No
+Male,20-30years,No,Graduate,No,Urban,20k-80,No
+Male,30-50 years,Yes,Graduate,Yes,Urban,Above 80k,No
+Female,20-30years,No,Graduate,No,Rural,Below 20,Yes
+Female,20-30years,No,Graduate,Yes,Urban,20k-80,Yes
+Male,20-30years,No,Not graduate,No,Urban,20k-80,Yes
+Female,20-30years,No,Not graduate,No,Urban,20k-80,Yes
+Male,20-30years,No,Not graduate,No,Rural,Below 20,No
+Male,20-30years,No,Graduate,No,Urban,20k-80,Yes
+Female,20-30years,No,Not graduate,No,Urban,Below 20,Yes
+Male,20-30years,Yes,Graduate,No,Urban,20k-80,Yes
+Female,20-30years,Yes,Graduate,No,Urban,Below 20,Yes
+Female,30-50 years,Yes,Not graduate,No,Rural,Below 20,No
+Male,20-30years,No,Graduate,No,Rural,Below 20,No
+Male,20-30years,No,Not graduate,Yes,Urban,20k-80,Yes
+Female,30-50 years,Yes,Graduate,Yes,Urban,20k-80,Yes
+Male,30-50 years,Yes,Graduate,No,Rural,20k-80,No
+Male,50 years above,No,Graduate,No,Rural,Above 80k,Yes
+Female,Below 20years,Yes,Not graduate,No,Urban,20k-80,Yes
+Female,20-30years,Yes,Graduate,Yes,Urban,20k-80,Yes
+Female,30-50 years,No,Graduate,Yes,Rural,20k-80,No
+Male,Below 20years,Yes,Graduate,Yes,Rural,Above 80k,No
+Female,50 years above,No,Not graduate,No,Urban,Below 20,Yes
+Male,50 years above,Yes,Graduate,Yes,Rural,20k-80,Yes
+Male,30-50 years,No,Graduate,No,Urban,Above 80k,No
+Male,30-50 years,Yes,Graduate,No,Urban,20k-80,No
+Female,Below 20years,No,Graduate,Yes,Urban,Below 20,Yes
+Female,20-30years,Yes,Not graduate,No,Rural,20k-80,Yes
+Male,30-50 years,No,Not graduate,Yes,Rural,20k-80,Yes
+Male,50 years above,Yes,Graduate,Yes,Rural,20k-80,Yes
+Male,50 years above,Yes,Graduate,No,Rural,20k-80,Yes
+Female,50 years above,Yes,Not graduate,Yes,Urban,20k-80,Yes
+Male,30-50 years,Yes,Graduate,No,Urban,Below 20,Yes
+Male,30-50 years,Yes,Not graduate,Yes,Rural,20k-80,No
+Male,30-50 years,No,Not graduate,Yes,Rural,Above 80k,No
+Male,30-50 years,Yes,Not graduate,Yes,Rural,20k-80,Yes
+Female,30-50 years,No,Not graduate,Yes,Urban,20k-80,No
+Male,20-30years,No,Graduate,Yes,Rural,20k-80,Yes
+Female,30-50 years,No,Not graduate,Yes,Urban,20k-80,Yes
+Male,30-50 years,Yes,Graduate,Yes,Urban,20k-80,No
+Male,50 years above,Yes,Not graduate,Yes,Rural,Above 80k,No
+Male,30-50 years,Yes,Graduate,No,Urban,20k-80,Yes
+Female,Below 20years,Yes,Graduate,Yes,Urban,Below 20,Yes
+Male,20-30years,No,Not graduate,No,Rural,20k-80,No
+Female,30-50 years,No,Graduate,No,Rural,Below 20,Yes
+Female,Below 20years,Yes,Graduate,No,Rural,20k-80,Yes
+Female,20-30years,Yes,Graduate,No,Rural,20k-80,No
+Female,50 years above,No,Not graduate,No,Urban,Above 80k,No
+Female,20-30years,Yes,Graduate,No,Rural,Above 80k,Yes
+Female,Below 20years,No,Graduate,Yes,Rural,20k-80,Yes
+Female,30-50 years,Yes,Not graduate,No,Urban,Above 80k,Yes
+Female,30-50 years,No,Not graduate,Yes,Rural,20k-80,Yes
+Female,20-30years,Yes,Graduate,Yes,Urban,20k-80,No
+Male,Below 20years,No,Not graduate,No,Rural,20k-80,Yes
+Male,50 years above,Yes,Graduate,No,Rural,20k-80,Yes
+Female,50 years above,No,Graduate,Yes,Rural,Above 80k,No
+Male,20-30years,Yes,Graduate,No,Rural,20k-80,No
+Female,Below 20years,Yes,Not graduate,Yes,Rural,20k-80,Yes
+Female,30-50 years,Yes,Not graduate,No,Urban,20k-80,No
+Female,30-50 years,No,Graduate,Yes,Urban,20k-80,Yes
+Male,20-30years,Yes,Graduate,Yes,Urban,Below 20,Yes
+Female,30-50 years,Yes,Not graduate,Yes,Rural,Above 80k,Yes
+Female,30-50 years,No,Graduate,Yes,Urban,20k-80,No
+Male,50 years above,No,Graduate,Yes,Urban,Below 20,No
+Female,20-30years,Yes,Graduate,No,Urban,Below 20,No
+Female,50 years above,No,Graduate,No,Rural,20k-80,Yes
+Male,30-50 years,No,Not graduate,No,Rural,Above 80k,Yes
+Male,30-50 years,Yes,Graduate,No,Rural,20k-80,No
+Female,20-30years,No,Not graduate,Yes,Rural,Above 80k,No
+Male,50 years above,No,Graduate,No,Rural,Below 20,Yes
+Female,50 years above,Yes,Not graduate,Yes,Urban,20k-80,No
+Male,20-30years,Yes,Not graduate,No,Rural,Below 20,Yes
+Male,30-50 years,No,Graduate,No,Urban,20k-80,Yes
+Male,30-50 years,Yes,Graduate,No,Rural,20k-80,No
+Male,50 years above,Yes,Graduate,Yes,Urban,Above 80k,Yes
+Male,20-30years,Yes,Not Graduate,No,Urban,20k-80,Yes
+Male,50 years above,No,Graduate,No,Urban,20k-80,Yes
+Male,30-50 years,Yes,Graduate,Yes,Urban,20k-80,Yes
+Male,30-50 years,Yes,Not Graduate,No,Urban,Above 80k,Yes
+Male,20-30years,Yes,Graduate,No,Semiurban,Below 20,No
+Male,50 years above,Yes,Graduate,No,Urban,20k-80,Yes
+Male,50 years above,Yes,Graduate,No,Semiurban,Above 80k,No
+Male,20-30years,Yes,Graduate,No,Urban,20k-80,Yes
+Male,20-30years,Yes,Graduate,No,Urban,Below 20,Yes
+Male,20-30years,Yes,Graduate,No,Urban,20k-80,Yes
+Male,30-50 years,No,Graduate,No,Rural,20k-80,No
+Male,20-30years,Yes,Graduate,No,Urban,20k-80,Yes
+Male,20-30years,No,Graduate,No,Urban,20k-80,Yes
+Male,20-30years,No,Not Graduate,No,Urban,20k-80,Yes
+Female,20-30years,No,Graduate,No,Urban,20k-80,No
+Male,20-30years,Yes,Not Graduate,No,Rural,Above 80k,No
+Male,20-30years,Yes,Graduate,Yes,Urban,Below 20,Yes
+Male,20-30years,Yes,Not Graduate,No,Urban,20k-80,No
+Male,30-50 years,Yes,Graduate,No,Urban,20k-80,Yes
+Male,20-30years,Yes,Not Graduate,No,Semiurban,20k-80,No
+Male,20-30years,Yes,Not Graduate,No,Rural,Below 20,No
+Male,20-30years,Yes,Graduate,Yes,Semiurban,20k-80,No
+Male,20-30years,Yes,Graduate,Yes,Semiurban,Below 20,Yes
+Male,20-30years,Yes,Graduate,No,Semiurban,20k-80,Yes
+Male,20-30years,Yes,Not Graduate,No,Urban,Below 20,Yes
+Male,30-50 years,No,Not Graduate,No,Urban,Below 20,No
+Female,30-50 years,No,Graduate,Yes,Semiurban,Below 20,Yes
+Male,20-30years,Yes,Graduate,Yes,Urban,20k-80,No
+Male,50 years above,No,Graduate,No,Urban,20k-80,No
+Male,50 years above,No,Graduate,Yes,Rural,20k-80,No
+Male,20-30years,Yes,Graduate,No,Semiurban,Above 80k,Yes
+Male,30-50 years,No,Graduate,No,Rural,20k-80,No
+Male,20-30years,Yes,Graduate,No,Urban,Below 20,Yes
+Male,50 years above,Yes,Graduate,No,Urban,Below 20,No
+Female,50 years above,Yes,Graduate,No,Semiurban,Below 20,Yes
+Male,20-30years,No,Graduate,No,Urban,Below 20,Yes
+Male,30-50 years,No,Not Graduate,No,Semiurban,Below 20,Yes
+Male,20-30years,No,Graduate,No,Urban,20k-80,No
+Male,50 years above,No,Graduate,No,Urban,Below 20,Yes
+Male,50 years above,Yes,Graduate,No,Urban,20k-80,Yes
+Male,20-30years,Yes,Graduate,No,Semiurban,Below 20,Yes
+Male,50 years above,Yes,Not Graduate,Yes,Urban,Below 20,Yes
+Female,20-30years,No,Graduate,No,Urban,Below 20,Yes
+Male,50 years above,Yes,Graduate,No,Urban,20k-80,Yes
+Male,30-50 years,Yes,Graduate,No,Urban,20k-80,Yes
+Female,30-50 years,Yes,Graduate,No,Urban,20k-80,No
